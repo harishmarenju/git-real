@@ -1,5 +1,5 @@
 Copyright (c) 2024 Harishma Labs LLC
 ...
 Permission is hereby granted,
-free of charge, to any person
+free of c
 obtaining a copy
