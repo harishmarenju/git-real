@@ -1,4 +1,4 @@
-Copyright (c) 2012 Envy Labs LLC
+Copyright (c) 2024 Harishma Labs LLC
 ...
 Permission is hereby granted,
 free of charge, to any person
